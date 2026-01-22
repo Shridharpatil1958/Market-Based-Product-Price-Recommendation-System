@@ -5,7 +5,7 @@
 An end-to-end Data Science application that recommends optimal launch prices for new products by analyzing live market data, cleaning and preprocessing data, training machine learning models, and deploying an interactive Streamlit web interface.
 
 **Application Home**
-(<img width="1919" height="919" alt="Screenshot 2026-01-22 104247" src="https://github.com/user-attachments/assets/be55a16e-c0e8-4f45-bbe5-fbbe325bf8c0" />)
+<img width="1919" height="919" alt="Screenshot 2026-01-22 104247" src="https://github.com/user-attachments/assets/be55a16e-c0e8-4f45-bbe5-fbbe325bf8c0" />
 
 
 ---
@@ -14,8 +14,8 @@ An end-to-end Data Science application that recommends optimal launch prices for
 
 ### 1. **Live Market Data Collection**
 
-(<img width="1920" height="870" alt="Screenshot 2026-01-22 104423" src="https://github.com/user-attachments/assets/291d3122-7705-49f7-8808-1aa365185789" />)
-(<img width="1920" height="873" alt="Screenshot 2026-01-22 104439" src="https://github.com/user-attachments/assets/db64f838-b37e-406d-b9b4-97fcf8f2ea8f" />)
+<img width="1920" height="870" alt="Screenshot 2026-01-22 104423" src="https://github.com/user-attachments/assets/291d3122-7705-49f7-8808-1aa365185789" />
+<img width="1920" height="873" alt="Screenshot 2026-01-22 104439" src="https://github.com/user-attachments/assets/db64f838-b37e-406d-b9b4-97fcf8f2ea8f" />
 - Fetches real-time product pricing from multiple platforms (Amazon, eBay, Walmart, BestBuy, Target)
 - Supports multiple product categories (smartphones, laptops, headphones, tablets, smartwatches)
 - Collects comprehensive product information: name, category, brand, price, rating, reviews, platform
@@ -23,7 +23,7 @@ An end-to-end Data Science application that recommends optimal launch prices for
 
 ### 2. **Data Cleaning & Preprocessing**
 
-(<img width="1920" height="872" alt="Screenshot 2026-01-22 104506" src="https://github.com/user-attachments/assets/92d1f62a-3f40-4b90-b59b-709ee0c5aa9d" />)
+<img width="1920" height="872" alt="Screenshot 2026-01-22 104506" src="https://github.com/user-attachments/assets/92d1f62a-3f40-4b90-b59b-709ee0c5aa9d" />
 - **Missing Value Handling**: Median imputation for price/rating, zero-fill for review count
 - **Duplicate Removal**: Eliminates duplicate products based on name and brand
 - **Price Normalization**: Converts prices to numeric format and normalizes across platforms
@@ -48,12 +48,12 @@ An end-to-end Data Science application that recommends optimal launch prices for
 
 ### Analytics Dashboard
 
-(<img width="1920" height="869" alt="Screenshot 2026-01-22 104743" src="https://github.com/user-attachments/assets/25ff2a98-9a95-4fbc-bb38-3cae2874804d" />)
+<img width="1920" height="869" alt="Screenshot 2026-01-22 104743" src="https://github.com/user-attachments/assets/25ff2a98-9a95-4fbc-bb38-3cae2874804d" />
 The system provides rich visualizations for market insights:
 
 #### Price Distribution Analysis
 
-(<img width="1920" height="871" alt="Screenshot 2026-01-22 104755" src="https://github.com/user-attachments/assets/275c0c45-5174-4712-ad5b-63750de508a0" />)
+<img width="1920" height="871" alt="Screenshot 2026-01-22 104755" src="https://github.com/user-attachments/assets/275c0c45-5174-4712-ad5b-63750de508a0" />
 
 **Key Insights:**
 - Distribution shows market price concentration
@@ -62,7 +62,7 @@ The system provides rich visualizations for market insights:
 
 #### Platform Comparison
 
-(<img width="1920" height="875" alt="Screenshot 2026-01-22 104809" src="https://github.com/user-attachments/assets/eebc7fc0-8c40-4279-92d1-9e71100ba2c8" />)
+<img width="1920" height="875" alt="Screenshot 2026-01-22 104809" src="https://github.com/user-attachments/assets/eebc7fc0-8c40-4279-92d1-9e71100ba2c8" />
 
 **Key Insights:**
 - Platform pricing variations
@@ -73,7 +73,7 @@ The system provides rich visualizations for market insights:
 
 ### Model Training Interface
 
-(<img width="1920" height="871" alt="Screenshot 2026-01-22 104529" src="https://github.com/user-attachments/assets/442f1245-5236-497f-9ecb-35961eef5eb1" />)
+<img width="1920" height="871" alt="Screenshot 2026-01-22 104529" src="https://github.com/user-attachments/assets/442f1245-5236-497f-9ecb-35961eef5eb1" />
 
 ### **Three Models Trained and Compared**:
 
@@ -94,7 +94,7 @@ The system provides rich visualizations for market insights:
 
 ### Model Performance Comparison
 
-(<img width="1920" height="871" alt="Screenshot 2026-01-22 104600" src="https://github.com/user-attachments/assets/9f9c8650-9660-4acc-a04d-f09aaeb52e21" />)
+<img width="1920" height="871" alt="Screenshot 2026-01-22 104600" src="https://github.com/user-attachments/assets/9f9c8650-9660-4acc-a04d-f09aaeb52e21" />
 
 **Typical Performance Metrics:**
 - **Linear Regression**: MAE ~$50-100, R² ~0.75-0.85
@@ -111,7 +111,7 @@ The system analyzes which features contribute most to price predictions, helping
 
 ### Input Interface
 
-(<img width="1920" height="868" alt="Screenshot 2026-01-22 104616" src="https://github.com/user-attachments/assets/42bdaaf0-15a4-471e-aa07-cec56afe3558" />)
+<img width="1920" height="868" alt="Screenshot 2026-01-22 104616" src="https://github.com/user-attachments/assets/42bdaaf0-15a4-471e-aa07-cec56afe3558" />
 
 Enter product details including:
 - Product Category
@@ -123,7 +123,7 @@ Enter product details including:
 
 ### Recommendation Output
 
-(<img width="1920" height="872" alt="Screenshot 2026-01-22 104718" src="https://github.com/user-attachments/assets/5f1169b4-b7f8-4bb2-9580-1abd0a23219e" />)
+<img width="1920" height="872" alt="Screenshot 2026-01-22 104718" src="https://github.com/user-attachments/assets/5f1169b4-b7f8-4bb2-9580-1abd0a23219e" />
 
 The system provides:
 - **Optimal Launch Price**: ML-powered price recommendation
@@ -463,5 +463,6 @@ For issues or questions:
 
 
 *Last Updated: January 2026*
+
 
 
