@@ -4,7 +4,8 @@
 
 An end-to-end Data Science application that recommends optimal launch prices for new products by analyzing live market data, cleaning and preprocessing data, training machine learning models, and deploying an interactive Streamlit web interface.
 
-![Application Home](<img width="1919" height="919" alt="Screenshot 2026-01-22 104247" src="https://github.com/user-attachments/assets/be55a16e-c0e8-4f45-bbe5-fbbe325bf8c0" />)
+![Application Home]
+(<img width="1919" height="919" alt="Screenshot 2026-01-22 104247" src="https://github.com/user-attachments/assets/be55a16e-c0e8-4f45-bbe5-fbbe325bf8c0" />)
 *Main landing page of the Price Recommendation System*
 
 ---
@@ -13,7 +14,8 @@ An end-to-end Data Science application that recommends optimal launch prices for
 
 ### 1. **Live Market Data Collection**
 
-![Live Market Data Interface](<img width="1920" height="870" alt="Screenshot 2026-01-22 104423" src="https://github.com/user-attachments/assets/291d3122-7705-49f7-8808-1aa365185789" />)
+![Live Market Data Interface]
+(<img width="1920" height="870" alt="Screenshot 2026-01-22 104423" src="https://github.com/user-attachments/assets/291d3122-7705-49f7-8808-1aa365185789" />)
 *Data collection interface with category and quantity selection*
 
 - Fetches real-time product pricing from multiple platforms (Amazon, eBay, Walmart, BestBuy, Target)
@@ -475,3 +477,4 @@ For issues or questions:
 
 
 *Last Updated: January 2026*
+
