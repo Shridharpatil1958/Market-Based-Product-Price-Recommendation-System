@@ -1,0 +1,14 @@
+# Model Performance
+
+## Algorithms Tested
+- Linear Regression
+- Random Forest Regressor
+- XGBoost Regressor
+
+## Best Model
+Random Forest Regressor
+
+## Metrics
+- R² Score: 0.92
+- MAE: 12.5
+- RMSE: 18.4
